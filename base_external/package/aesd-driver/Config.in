@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_DRIVER
+	bool "aesd-driver"
+	help
+	  Includes aesd char device using circular buffer kernel moduòle.
